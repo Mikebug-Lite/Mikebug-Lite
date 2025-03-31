@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Mike (They/Them), an Electronic Engineer in training; just tring to get good version control practices down early on.  
+I likely won't be interacting much publicly for a while yet until I have more skills to share.
+
 <!--
 **Mikebug-Lite/Mikebug-Lite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
